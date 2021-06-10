@@ -1,0 +1,209 @@
+body {
+    background-color: whitesmoke;
+}
+nav {
+    text-align: center;
+    width: 100%;
+    height: 15vh;
+}
+nav a.navbar-brand {
+    margin-left: 100px;
+}
+nav li a {
+    margin-right: 60px;
+    padding: 4px;
+}
+nav form {
+ text-align: center;
+}
+.section-light {
+    background-color: white;
+    padding: 2rem;
+}
+.video-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    align-items: center;
+    width: 100%;
+    height: 20vh;
+}
+.box {
+    width: 227px;
+    height: 227px;
+    background-color: #f6f6f6;
+  }  
+  
+  .text-container {
+      display: block;
+      color: inherit;
+      cursor: pointer;
+      margin: 0;
+      outline: none;
+      padding: 2rem;
+      text-decoration: none;
+      text-transform: none;
+      padding: 0px 0px 15px;
+  }
+  .image-container img {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      max-width: 100%;
+      max-height: 100%;
+      margin: auto;
+      box-sizing: border-box;
+    
+    
+  }
+  a img {
+      opacity: 0.99;
+      border: none;
+      align-items: center;
+  }
+  .image-container a {
+      display: block;
+      position: relative;
+  }
+  a {
+      cursor: pointer;
+      color: inherit;
+  }
+  .all-container {
+      width: 100%;
+      background: white;
+      padding-bottom: 1px;
+      margin: 0;
+      outline: none;
+      padding: 0;
+      text-decoration: none;
+      padding: 2rem;
+  }
+  .border {
+      background-color: white;
+  }
+  .button-1.blue{
+      background-color: #0967bc;
+      padding: 15px 40px;
+  }
+
+  .new-arrival {
+      background-color: darkblue;
+      padding: 2rem;
+      color: #fff;
+      width: 100%;
+      text-align: center;
+  }
+  .new-arrival h4 {
+      color: white;
+  }
+  .section-light {
+      padding: 2rem;
+      width: 100%;
+  }
+ .section-dark {
+     background-repeat: unset;
+     background-size: cover;
+     background-color: lightskyblue;
+     text-align: center;
+     color: black;
+ }
+ .section-dark img {
+     text-align: center;
+ }
+ .section-dark h4 {
+     padding: 4px;
+     margin: 4px;
+     position: relative;
+ }
+ .section-dark p {
+     padding: 4px;
+     margin: 4px;
+     position: relative;
+ }
+ .section-logo {
+     width: 100%;
+     padding: 5rem;
+     background-color: whitesmoke;
+ }
+ .section-deal {
+     width: 100%;
+     padding: 0;
+     background-color: white;
+ }
+ .section-view {
+     width: 100%;
+     background-color: whitesmoke;
+     padding: 2rem;
+ }
+ .btn-recent {
+     width: 100%;
+     box-sizing: border-box;
+     padding: 2rem;
+     background-color: whitesmoke;
+ }
+ .footer-title{
+     width: 100%;
+     padding: 2rem;
+     background-color: lightskyblue;
+ }
+ .footer-block strong {
+     border-bottom: 2px solid#0c1e5e;
+     font: bold 18px 'Bahnschrift Regular';
+     display: table-cell;
+     vertical-align: middle;
+     text-transform: uppercase;
+     text-align: left;
+     color: #0c1e5e;
+ }
+ .footer-block li {
+     font-size: 12px;
+ }
+ .footer-block li a {
+     display: block;
+     position: relative;
+     padding: 10px 0 10px 0px;
+     color: #0c1e5e;
+     cursor: pointer;
+     box-sizing: border-box;
+ }
+ .footer-block ul {
+     border-right: 1px solid #bad4ea;
+     display: block;
+     margin: 0 0 20px;
+     padding: 0px;
+     list-style: none;
+ }
+ ul {
+     margin-block-start: 1rem;
+     margin-inline-start: 0px;
+     margin-inline-end: 0px;
+     padding-inline-start: 40px;
+ }
+ .section-footer {
+     background: darkblue;
+     height: 20vh;
+ }
+ .section-footer p {
+     color: white;
+     padding: 1rem;
+ }
+ .last-footer {
+     background-color: black;
+     color: white;
+     height: 5vh;
+ }
+ .email-form {
+     width: 100%;
+     align-items: center;
+ }
+ .car-container {
+     margin-top: 10px;
+ }
+ .hr-line {
+     border: 1px solid darkblue;
+ }
+ 
+ 
